@@ -4,7 +4,7 @@ pip install tensorflow
 
 ```python
 import pandas as pd
-import re
+import re as re
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
